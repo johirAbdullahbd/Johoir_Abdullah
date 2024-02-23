@@ -1,0 +1,48 @@
+.containear {
+  width: 100vw;
+  height: auto;
+  margin: auto;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(1, 2, 11);
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 50px;
+  letter-spacing: 3px;
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(90deg, rgb(246, 246, 247), #2406eaf8);
+  letter-spacing: 1px;
+  text-shadow: 0 0.5px 0.5px rgb(5, 12, 61);
+}
+
+.img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 10px;
+  transition: transform 0.3s ease-in-out;
+ 
+}
+
+.img:hover {
+  transform: translateY(-5px);
+}
+
+@media (max-width: 768px) {
+  .text {
+    font-size: 2rem;
+    letter-spacing: 2px;
+  }
+}

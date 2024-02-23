@@ -1,0 +1,29 @@
+.containear {
+  width: 100vw;
+  height: auto;
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(1, 2, 11);
+}
+.text {
+  width: 70%;
+  padding: 5px;
+}
+.text p {
+  margin: 20px 0;
+  letter-spacing: 1px;
+}
+@media (max-width: 768px) {
+  .containear {
+    margin: 50px 0;
+    padding: 10px 5px;
+  }
+  .text {
+    width: 100%;
+  }
+}
