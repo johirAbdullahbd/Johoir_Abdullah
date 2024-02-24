@@ -7,11 +7,12 @@ const About = () => {
           I enjoyed learning from 2019 to 2021, and in 2022-2023 I worked on many large-scale projects as mentioned earlier. During integrating JWT
           into my project, I encountered some errors that made me concerned about the project's security. Therefore, I designed my own JWT, which I
           will quickly add to the npm package. Here, I will talk about my smallest ongoing project, which you can see at
-          https://quiz-quick-theta.vercel.app/.
+          <a>https://quiz-quick-theta.vercel.app/</a>.
         </p>
         <p>
-          Elit occaecatcat officia sit Lorem in dolore laborum sunt aliquip ipsum officia esse. Id Lorem qui eiusmod ad eu ullamco consequat duis
-          tempor culpa. Tempor amet non culpa exercitation eiusmod.
+          At the end of 2020, I entered into a marriage bond with <strong>Ms. Ema</strong>, and now I am fulfilling the responsibility of raising our
+          two children. It feels like time passes quickly, and without delay, let's make a contract for business.
+          <a>https://quiz-quick-theta.vercel.app/pages/investmentplan</a>
         </p>
       </div>
     </div>
