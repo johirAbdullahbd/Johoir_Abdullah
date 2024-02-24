@@ -9,6 +9,18 @@
   align-items: center;
   box-sizing: border-box;
 }
+.containear {
+  width: 100vw;
+  height: auto;
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(1, 2, 11);
+}
 
 .bodyContainear {
   max-width: 802px;

@@ -10,11 +10,11 @@ const Contact = () => {
     <div className={styles.containear}>
       <div className={styles.text}>Contact Me</div>
       <div className={styles.icon}>
-        <Link target="_blank" href="https://twitter.com/Johir_Abdullah" >
+        <Link target="_blank" href="https://twitter.com/Johir_Abdullah">
           <Image className={styles.img} src={twitter} alt="twitter" />
         </Link>
 
-        <Link target="_blank" href="https://m.me/100067301229882" >
+        <Link target="_blank" href="https://www.linkedin.com/">
           <Image className={styles.img} src={linkedin} alt="linkedin" />
         </Link>
 

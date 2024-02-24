@@ -3,6 +3,7 @@ import "./globals.css";
 import styles from "./styles/home.module.css";
 import Navbar from "./components/navBar";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {

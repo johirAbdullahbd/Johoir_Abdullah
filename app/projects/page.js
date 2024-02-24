@@ -13,7 +13,7 @@ const Projects = () => {
         <Image className={styles.img} src={img0} alt="quiz-academy" />
         <div className={styles.text}>
           <h3>Quiz Academy</h3>
-          <h4 className={styles.text0}>Go Now &raquo;</h4>
+         <a href="https://quiz-quick-theta.vercel.app/" target="_blank"><h4 className={styles.text0}>Go Now &raquo;</h4></a>
         </div>
       </div>
       <div className={styles.imgContainear}>
