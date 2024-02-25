@@ -2,6 +2,8 @@ import styles from "../styles/about.module.css";
 const About = () => {
   return (
     <div className={styles.containear}>
+      <div className={styles.head}>About Me</div>
+
       <div className={styles.text}>
         <p>
           I enjoyed learning from 2019 to 2021, and in 2022-2023 I worked on many large-scale projects as mentioned earlier. During integrating JWT
